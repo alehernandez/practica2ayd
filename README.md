@@ -1,3 +1,4 @@
 # practica2ayd
-Practica de analisis y disenio
+Práctica de análisis y diseño
 Oscar Alejandro Hernandez de Leon 201404174
+Aylin Zulema Aroche Arbizú        201404368
